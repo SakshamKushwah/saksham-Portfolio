@@ -10,7 +10,7 @@ const ProjectsSection = () => {
     {
       title: "Grocery Delivery Platform",
       description: "A fully-featured Grocery Delivery Platform with product listings, cart functionality, and secure checkout process.",
-      image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+      image: "https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/ab24ce51-f6cd-474e-92d3-b0a0fbb2a38d.png",
       tags: ["React", "Node.js", "MongoDB", "Stripe"],
       liveLink: "https://greencart-sk06.vercel.app/",
       repoLink: "https://github.com/SakshamKushwah/greencart"
@@ -26,9 +26,9 @@ const ProjectsSection = () => {
     //   repoLink: "https://github.com/username/project2"
     // },
     {
-      title: " AI-Powered Finance Tracke ",
+      title: " AI-Powered Finance Tracker ",
       description: "Developed a full-stack web platform enabling users to track multiple bank account incomes and expenses, harnessing AI (Gemini) for enhanced financial insights",
-      image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
+      image: "https://imgs.search.brave.com/YgjXxugnsI9ltOTg2ZBU7CwHDlx79V5SH1feUEM_n4g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9saXRz/bGluay5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMDkv/MS0yMy0xMDI0eDY4/My5wbmc",
       tags: ["React", "Next.js", "Tailwind CSS, ", "Shadcn UI" ,"Inngest " ,"Arcjet"],
       liveLink: "https://welth-9edp.vercel.app/",
       repoLink: "https://github.com/SakshamKushwah/greencart"
